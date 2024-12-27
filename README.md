@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cah-augustine-jebakumar
 - 👀 I’m interested in DSA Coding and Web development
-- 🌱 I’m currently learning Java Springboot
-- 💞️ I’m looking on 
+- 🌱 I’m Exploring Data Science, AI and Machine Learning
 - 📫 How to reach me ->  augustinev01@gmail.com 
 
 <!---
